@@ -1,0 +1,20 @@
+body{
+    color: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1,h2{
+    text-align: center;
+    color: blueviolet;
+footer,p{
+
+    color:white;
+}
+    
+}
+
+.bg{
+    background-image: url('../images/bac33.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
